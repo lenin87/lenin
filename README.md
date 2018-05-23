@@ -1,18 +1,19 @@
 
 ## bubbole sort
 
-var arr = [36,25,45,5,7,89,62,31,100];
-var length = arr.length-1;
-for (var i =0; i< length;  i++) {
-for (var j = 0; j <= length; j++) {
-if (arr[j] > arr[j+1]) {
-var tmp = arr[j];
-arr[j] = arr[j+1];
-arr[j+1] = tmp;
-}
-}
-}
-console.log(arr);
+###### var arr = [36,25,45,5,7,89,62,31,100];
+###### var length = arr.length-1;
+###### for (var i =0; i< length;  i++) {
+
+###### for (var j = 0; j <= length; j++) {
+###### if (arr[j] > arr[j+1]) {
+###### var tmp = arr[j];
+###### arr[j] = arr[j+1];
+###### arr[j+1] = tmp;
+###### }
+###### }
+###### }
+###### console.log(arr);
 
 
 
