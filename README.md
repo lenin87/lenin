@@ -33,3 +33,4 @@ arr[min]= arr[i]
 arr[i]=tmp;
 }
 console.log(arr);
+
