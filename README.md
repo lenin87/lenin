@@ -1,5 +1,5 @@
 
-## bubbole sort
+## Bubble sort
 
 ###### var arr = [36,25,45,5,7,89,62,31,100];
 ###### var length = arr.length-1;
@@ -18,7 +18,7 @@ output :  [5, 7, 25, 31, 36, 45, 62, 89, 100]
 
 
 
-## selection sort
+## Selection sort
 
 ###### var arr = [36,25,45,5,7,89,62,31,100,1]; 
 ###### var length = arr.length;
